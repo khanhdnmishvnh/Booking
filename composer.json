@@ -1,0 +1,18 @@
+{
+  "name": "dongo/booking",
+  "autoload": {
+    "psr-4": {
+      "Dongo\\Booking\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Đỗ Ngọc Khánh",
+      "email": "24a4040475@hvnh.edu.vn"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "endroid/qr-code": "^4.8"
+  }
+}
